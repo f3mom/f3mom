@@ -1,5 +1,5 @@
 # Hi, I'm femom.
-I'm a cybersecurity enthusiast :3
+I'm a cybersecurity enthusiast.
 ## Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
